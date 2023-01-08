@@ -18,7 +18,9 @@
 		<li>Careers</li>
 		<li>About</li>
 		<div class="links">
+			<!-- svelte-ignore a11y-invalid-attribute -->
 			<a href="#" target="_blank" rel="noopener noreferrer">Login</a>
+			<!-- svelte-ignore a11y-invalid-attribute -->
 			<a href="#" class="reg">Register</a>
 		</div>
 	</ul>
