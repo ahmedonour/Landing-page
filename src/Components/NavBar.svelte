@@ -82,5 +82,9 @@
 		height: 3rem;
 		border-radius: 15px;
 		border: 2px solid var(--Medium-Gray);
+		transition: all 550ms ease-in-out;
+	}
+	nav ul .links .reg:hover{
+		box-shadow: 4px 4px 0px rgba(0, 0, 0, 0.6);
 	}
 </style>
